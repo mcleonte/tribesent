@@ -1,0 +1,3 @@
+ARG HBASE_VERSION
+
+FROM dajobe/hbase:${HBASE_VERSION}
